@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaciejOrlik
+- 👀 I’m interested in Unity3D/C#
+- 🌱 I’m currently studying IT
+- 📫 How to reach me: maciekorlik18@gmail.com
